@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "esri-loader": "^2.14.0",
     "html2canvas": "^1.0.0-rc.5",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "postcss-plugin-px2rem": "^0.8.1",
     "qs": "^6.9.4",
     "sass-loader": "^8.0.2",
